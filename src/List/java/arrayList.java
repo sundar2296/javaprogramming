@@ -13,7 +13,7 @@ public class arrayList {
 		arraylist.add("Maruthi");
 		arraylist.add("Nexa");
 		arraylist.add("Kia");
-		arraylist.add("Hyundai");
+		
 		arraylist.add("verna");
 		
 		System.out.println(arraylist);
